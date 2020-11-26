@@ -1,0 +1,16 @@
+body {
+  font-size: 1.6rem;
+  line-height: 1.3;
+  padding: 4rem;
+  background-color: rgb(212, 243, 205);
+  color: rgb(46, 19, 177);
+}
+
+a {
+  text-decoration: none;
+  color: #da1c27;
+}
+
+a:hover {
+  text-decoration: underline;
+}
